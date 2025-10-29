@@ -3,6 +3,9 @@ body{
     background-color: gold;
 }
 
+.heading{
+    background-color: blueviolet;
+}
 .btn{
     height: 200px;
     width: 200px;
